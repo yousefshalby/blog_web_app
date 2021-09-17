@@ -12,7 +12,7 @@
 
 4. mkvirtualenv venv
 
-5. workon venv
+5. work on venv
 
 6. pip install -r requirement.txt
 
