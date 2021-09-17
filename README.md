@@ -6,7 +6,7 @@
 
 1. git clone https://github.com/yousefshalby/blog_web_app.git
 
-2. cd blog_web_app/
+2. cd blog_web_app\
 
 3. pip install virtualenvwrapper-win
 
